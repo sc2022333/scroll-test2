@@ -1,0 +1,1 @@
+print("Hello from SC's scroll-forge!")
